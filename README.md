@@ -15,7 +15,7 @@ Us the D3 JavaScript data visualization library to display findings on a publicl
 - [U.S. Census Bureau](https://data.census.gov/cedsci/)
 
 ## Source
-[SMU DS Boot Camp - Data Journalism and D3](https://smu.bootcampcontent.com/SMU-Coding-Bootcamp/SMU-DAL-DATA-PT-11-2019-U-C/tree/master/02-Homework/16-D3/Instructions)
+[SMU DS Boot Camp - Data Journalism and D3](https://techbootcamps.smu.edu/data/)
 
 ## Tech Stack
 - [HTML5](https://www.w3schools.com/html/html5_intro.asp)
